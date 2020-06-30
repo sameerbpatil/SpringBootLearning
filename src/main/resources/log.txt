@@ -1,0 +1,10 @@
+Searching directory...
+Identified candidate component class: ...
+Identified candidate component class: ...
+
+Creating instance of bean 'BinarySearchImpl'
+Creating instance of bean 'BubbleSortAlgorithm'
+Finished creating instance if bean 'BubbleSortAlgorithm'
+Autowiring by type from bean name 'BinarySearchImpl' via constructor
+to bean named 'BubbleSortAlgorithm'
+Finished creating instance of bean 'BinarySearchImpl'
